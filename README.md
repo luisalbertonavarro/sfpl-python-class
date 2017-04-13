@@ -7,10 +7,10 @@ Slides, sample program, and resources for the class.
 
 ### Python resources:
 - Official site: http://www.python.org
-- Official documentation: https://docs.python.org/3/
+- Official documentation: https://docs.python.org/2/
 - Python at stackoverflow: http://stackoverflow.com/documentation/python/topics
 
 ### Next Steps. Free onlines resources to learn Python:
 - Code Academy: https://www.codecademy.com/learn/python
 - TutorialsPoint: http://www.tutorialspoint.com/python/
-- Google's Python: https://developers.google.com/edu/python/?hl=en
+- Google's Python Class: https://developers.google.com/edu/python/?hl=en
